@@ -31,12 +31,11 @@ tags:
   - Pieds gonflés
     - Belsar à la place de forzaten
     - 1/2 comprimé Lasyx pendant une semaine
-    - [x] #task Belsar pour remplacer forzaten (pendant une semaine?) ✅
-          2025-09-01
+    - [x] Belsar pour remplacer forzaten (pendant une semaine?) ✅ 2025-09-01
   - Douleur sur le cotés
     - Peut-être une constipation
     - Movicol
-    - [x] #task 16:00 -> 17:30 téléphoner Dr Litt
+    - [x] 16:00 -> 17:30 téléphoner Dr Litt
 - 2025-07-29 Suppression du bisoprol après les résultats du holter
   - **old** bisoprolol 2.5 _0.5 soir_
 - 2025-05-28 Calcium le soir
