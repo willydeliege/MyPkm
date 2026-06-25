@@ -6,7 +6,7 @@ tags: []
 related: "[[Development]]"
 ---
 
-# intelligence artificielle
+# Intelligence artificielle
 
 Ensemble de techniques et algorithmes permettant de mimer certains comportements
 humains tels que le raisonnement, la prise de décisions et l'apprentissage Cette

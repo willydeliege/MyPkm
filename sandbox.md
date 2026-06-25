@@ -42,8 +42,6 @@ task-timer: true
 
 ## Checkboxes
 
-🇧🇪
-
 - [ ] test
   - [ ] test
   - [ ] new
