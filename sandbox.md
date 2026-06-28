@@ -7,6 +7,13 @@ task-timer: true
 
 #neovim
 
+## prompts
+
+Je veux 4 repas de saisons complets (protéine, féculent, légumes) et variés pour
+2 personnes, idéalement de saisons (début juillet) J'ai déjà filets de poulet
+pour 2, steaks pour 2 et saucisses porc/boeuf pour 2, riz, semoule,pommes de
+terre et frites
+
 # sandbox
 
 ## Attachments
@@ -42,8 +49,8 @@ task-timer: true
 
 ## Checkboxes
 
-- [ ] test
-  - [ ] test
-  - [ ] new
+- [x] test
+  - [x] test
+  - [x] new
   - [x] task 3
 - [x] test 2

@@ -1,6 +1,6 @@
 ---
-aliases: []
 id: Architecture
+aliases: []
 tags: []
 ---
 

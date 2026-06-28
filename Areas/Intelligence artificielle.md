@@ -20,5 +20,3 @@ automatique [[Machine learning]]
 [[Amélioration de la sécurité et de l’accessibilité]]
 
 ## Inconvénients
-
-[[Impact sur l'emploi par l'IA]]

@@ -3,7 +3,7 @@ id: Intelligence Artificielle et productivité
 aliases: []
 tags: []
 areas:
-  - "[[Intelligence artificielle]]"
+  - Intelligence artificielle
 ---
 
 # Intelligence Artificielle améliore la productivité
