@@ -30,7 +30,7 @@ terre et frites
 - [Website](https://google.com)
 - <user@test.com> ,
 
----
+with pkgs; [ i3status i3status-rust alacritty rofi light ]
 
 [[Intelligence Artificielle et productivité|intelligence Artificielle et productivité]]
 
