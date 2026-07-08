@@ -8,6 +8,11 @@ tags:
 
 # Médicaments
 
+## Current
+
+- duovent (essoufflements)
+- ultibro 85/43
+
 - [ ] l-thyroxine 100 _1 matin -- séparé_
 - [ ] cordarone 200 _1 matin_ **!!⚠️ PAS LE WEEK-END**
 - [ ] forxiga 10 _1 matin_
