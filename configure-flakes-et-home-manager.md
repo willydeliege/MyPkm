@@ -34,6 +34,7 @@ inputs = { # Branchement sur le canal unstable nixpkgs.url =
 };
 
 outputs = { self, nixpkgs, home-manager, ... }@inputs: {
+# nixosConfigurations.${hostname}
 nixosConfigurations.nixos = nixpkgs.lib.nixosSystem { system = "x86_64-linux";
 modules = [ ./hardware-configuration.nix ./configuration.nix
 
@@ -61,7 +62,7 @@ Créez ou remplacez le fichier ~/dotfiles/home.nix par celui-ci :
 
 # On utilise l'état "unstable" pour Home Manager
 
-home.stateVersion = "24.11";
+home.stateVersion = "26.05";
 
 # Paquets de l'utilisateur willefi (exemples à modifier selon vos besoins)
 

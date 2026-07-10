@@ -34,13 +34,13 @@ de votre choix dans votre espace utilisateur.
 Maintenant que les fichiers sont dans votre dossier Git, il faut dire à NixOS où
 aller les chercher. [8]
 
-- Supprimez les fichiers originaux : sudo rm /etc/nixos/\*.nix.
-- Créez un lien symbolique vers le fichier principal : sudo ln -s
-  ~/dotfiles/configuration.nix /etc/nixos/configuration.nix.
-- Créez un lien symbolique vers le fichier matériel : sudo ln -s
-  ~/dotfiles/hardware-configuration.nix /etc/nixos/hardware-configuration.nix.
-- Testez que tout fonctionne bien en effectuant une reconstruction : sudo
-  nixos-rebuild switch. [1, 2, 9, 10]
+- Supprimez les fichiers originaux : `sudo rm /etc/nixos/\*.nix`.
+- Créez un lien symbolique vers le fichier principal :
+  `sudo ln -s ~/dotfiles/configuration.nix /etc/nixos/configuration.nix`.
+  - Créez un lien symbolique vers le fichier matériel :
+    `sudo ln -s ~/dotfiles/hardware-configuration.nix /etc/nixos/hardware-configuration.nix`.
+    - Testez que tout fonctionne bien en effectuant une reconstruction :
+      `sudo nixos-rebuild switch`. [1, 2, 9, 10]
 
 ## 3. Activer Git et publier sur le dépôt
 
@@ -58,9 +58,3 @@ Si vous avez déjà installé [Home Manager](https://nixos.wiki/wiki/Home_Manage
 ou si vous utilisez la fonctionnalité des Flakes (expérimentale mais devenue un
 standard pour les nouvelles installations), la structure des fichiers sera
 légèrement différente. [15, 16] Si vous le souhaitez, dites-moi :
-
-- Utilisez-vous la méthode classique (avec configuration.nix) ou utilisez-vous
-  des Flakes ?
-- Utilisez-vous également Home Manager pour vos configurations d'applications ?
-
-Je pourrai vous indiquer la meilleure façon d'organiser votre dépôt Git !
