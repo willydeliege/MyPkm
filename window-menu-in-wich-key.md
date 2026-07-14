@@ -5,7 +5,7 @@ aliases:
 tags: []
 ---
 
-# window menu in wich key
+# window menu in which key
 
 ```lua
 
