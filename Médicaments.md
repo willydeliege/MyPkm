@@ -27,6 +27,11 @@ tags:
 
 ## Log
 
+- 2026-07-16 Rendez-vous chez le dermatologue
+  - Petit cancer
+    - pommade 5jrs/semaine pendant 3 ou 4 semaines
+    - attendre 2 semaines
+    - nouveau rendez-vous dans 3 mois
 - 2026-06-11 ajout d'un puff (duovent) à prendre contre les essoufflements
 - 2026-05-21 fibroscopie
   - Rien trouvé dans les échantillons
@@ -41,7 +46,7 @@ tags:
     - Peut-être une constipation
     - Movicol
     - [x] 16:00 -> 17:30 téléphoner Dr Litt
-- 2025-07-29 Suppression du bisoprol après les résultats du holter
+- 2025-07-29 Suppression du bisoprolol après les résultats du holter
   - **old** bisoprolol 2.5 _0.5 soir_
 - 2025-05-28 Calcium le soir
 - 2025-03-24 Remplace simvastatine par inegy
