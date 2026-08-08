@@ -2,11 +2,12 @@
 id: status-bim-papa
 aliases:
   - status bim papa
-tags: []
+tags:
+  - mutuelle
 ---
 
-# status bim papa
+# Status bim papa
 
-![[Payment certificate.pdf]]
+[[Payment certificate.pdf]]
 
-![[Avertissement-extrait de rôle 2025.pdf]]
+[[Avertissement-extrait de rôle 2025.pdf]]
