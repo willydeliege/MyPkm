@@ -57,4 +57,4 @@ Il ne vous reste plus qu'à versionner ces fichiers.
 Si vous avez déjà installé [Home Manager](https://nixos.wiki/wiki/Home_Manager)
 ou si vous utilisez la fonctionnalité des Flakes (expérimentale mais devenue un
 standard pour les nouvelles installations), la structure des fichiers sera
-légèrement différente. [15, 16] Si vous le souhaitez, dites-moi :
+légèrement différente.
