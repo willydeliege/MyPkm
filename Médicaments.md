@@ -27,6 +27,9 @@ tags:
 
 ## Log
 
+- 2026-07-30 R-v pneumologue:
+  - résutats du scanner ou on ne trouve plus de taches
+  - mieux utiliser l'ultibro ss
 - 2026-07-16 Rendez-vous chez le dermatologue
   - Petit cancer
     - pommade 5jrs/semaine pendant 3 ou 4 semaines
