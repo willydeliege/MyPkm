@@ -10,8 +10,8 @@ tags:
 
 ## Current
 
-- duovent (essoufflements)
-- ultibro 85/43
+- duovent (si essoufflements)
+- ultibro 85/43 (tous les matins)
 
 - [ ] l-thyroxine 100 _1 matin -- séparé_
 - [ ] cordarone 200 _1 matin_ **!!⚠️ PAS LE WEEK-END**
